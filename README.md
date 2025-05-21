@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fogi2025" alt="fogi2025" /></a> </p>
 
-- 🔭 I’m currently working on [LM chat-gpt](https://fogi-gpt.vercel.app/)
+- 🔭 I’m currently working on [LM chat-gpt](https://ai.fogi.live/)
 
 - 🌱 I’m currently learning **LM Model,Python,javaScript,Html,tailwind css,Nodejs,**
 
 - 👯 I’m looking to collaborate on [Multi-Tools](https://fogi2025.github.io/fogi.tools/)
 
-- 🤝 I’m looking for help with [LLM AI](https://fogi2025.github.io/fogi.bolt/)
+- 🤝 I’m looking for help with [LLM AI](https://www.fogi.live/)
 
-- 📫 How to reach me **info.ai.fogi@gmail.com**
+- 📫 How to reach me **info@fogi.live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
