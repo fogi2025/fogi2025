@@ -13,6 +13,9 @@
 
 - 🤝 I’m looking for help with [LLM AI](https://www.fogi.live/)
 
+- 🤝 My Portfolio [Portfolio](https://portfolio.fogi.live/)
+
+
 - 📫 How to reach me **info@fogi.live**
 
 <h3 align="left">Connect with me:</h3>
